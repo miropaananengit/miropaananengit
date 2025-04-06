@@ -1,1 +1,1 @@
-Hei! Olen verkkosivujen kehittäjä ja intohimoinen koodari
+full-stack developer
